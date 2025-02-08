@@ -12,7 +12,7 @@
 
 **vite version:** >=2.0.0
 
-**pnpm version:** 10.2.1
+**pnpm version:** >=10.0
 
 ```
 yarn add vite-plugin-imagemin -D
